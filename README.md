@@ -29,6 +29,14 @@ This repository contains the technical report, original paper, and MATLAB code a
 
 - The MATLAB scripts will generate simulation results demonstrating the effectiveness of the ATSMC approach compared to the conventional TSMC. The results include error convergence graphs, control torque plots, and surface tracking illustrations.
 - [Graphs](/Results): The results obtained are not same as the original paper, the report uses different parameters i.e. constants.
+<div align=right>
+<table>
+  <tr>
+    <td><img src="https://github.com/akoushik2k/Adaptive-Terminal-Sliding/blob/0587b16051af36dd5e911db6043c8c2cf7d21cf4/Results/Torque%201%20vs%20time.jpg" alt="Torqu1vsTime" width="400"/></a></td>
+    <td><img src="https://github.com/akoushik2k/Adaptive-Terminal-Sliding/blob/0587b16051af36dd5e911db6043c8c2cf7d21cf4/Results/Torque%202%20vs%20time.jpg" alt="Torque2vsTime" width="400"/></a></td>
+  </tr>
+</table>
+</div>
 
 ## References
 [Adaptive terminal sliding mode control for rigid robotic manipulators](https://link.springer.com/article/10.1007/s11633-011-0576-2)
