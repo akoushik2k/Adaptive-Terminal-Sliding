@@ -13,7 +13,7 @@ This repository contains the technical report, original paper, and MATLAB code a
 
 ### Reports
 
-- [`Technical Report on Adaptive Terminal Sliding Mode Control.pdf`](Technical Report on Adaptive Terminal Sliding Mode Control.pdf): Technical report detailing the ATSMC approach.
+- `Technical Report on Adaptive Terminal Sliding Mode Control.pdf`: Technical report detailing the ATSMC approach.
 
 ### MATLAB Code
 
