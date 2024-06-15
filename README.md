@@ -29,11 +29,30 @@ This repository contains the technical report, original paper, and MATLAB code a
 
 - The MATLAB scripts will generate simulation results demonstrating the effectiveness of the ATSMC approach compared to the conventional TSMC. The results include error convergence graphs, control torque plots, and surface tracking illustrations.
 - [Graphs](/Results): The results obtained are not same as the original paper, the report uses different parameters i.e. constants.
-<div align=center>
+- Torque vs Time
+<div align=left>
 <table>
   <tr>
     <td><img src="https://github.com/akoushik2k/Adaptive-Terminal-Sliding/blob/0587b16051af36dd5e911db6043c8c2cf7d21cf4/Results/Torque%201%20vs%20time.jpg" alt="Torqu1vsTime" width="400"/></a></td>
     <td><img src="https://github.com/akoushik2k/Adaptive-Terminal-Sliding/blob/0587b16051af36dd5e911db6043c8c2cf7d21cf4/Results/Torque%202%20vs%20time.jpg" alt="Torque2vsTime" width="400"/></a></td>
+  </tr>
+</table>
+</div>
+- Error(Rad) vs Time
+<div align=left>
+<table>
+  <tr>
+    <td><img src="https://github.com/akoushik2k/Adaptive-Terminal-Sliding/blob/c7d83aca8ecb40e9c1c7ba6ab0353dc2390e3242/Results/e1%20vs%20time.jpg" alt="error1vsTime" width="400"/></a></td>
+    <td><img src="https://github.com/akoushik2k/Adaptive-Terminal-Sliding/blob/c7d83aca8ecb40e9c1c7ba6ab0353dc2390e3242/Results/e2%20vs%20time.jpg" alt="error2vsTime" width="400"/></a></td>
+  </tr>
+</table>
+</div>
+- Surface vs Time
+<div align=left>
+<table>
+  <tr>
+    <td><img src="https://github.com/akoushik2k/Adaptive-Terminal-Sliding/blob/c7d83aca8ecb40e9c1c7ba6ab0353dc2390e3242/Results/S1%20vs%20Time.png" alt="surface1vsTime" width="400"/></a></td>
+    <td><img src="https://github.com/akoushik2k/Adaptive-Terminal-Sliding/blob/c7d83aca8ecb40e9c1c7ba6ab0353dc2390e3242/Results/S2%20vs%20Time.png" alt="surface2vsTime" width="400"/></a></td>
   </tr>
 </table>
 </div>
